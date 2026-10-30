@@ -1,0 +1,8 @@
+{
+  "name": "Remix 시사 퀴즈왕 OX",
+  "description": "최신 시사 상식을 재미있게 맞히는 5문제 O/X 퀴즈 웹 게임입니다.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
